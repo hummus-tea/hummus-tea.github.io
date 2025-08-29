@@ -7,9 +7,9 @@ title: "Hannah Davis Edits"
 ---
 ## About Me
 
-I'm trained as an engineer and am passionate about science, food, local politics, queer and feminist issues, Judaism, speculative fiction, and language. An enthusiastic researcher, I relish the opportunity to dig deep into a new topic and to make complicated technical issues accessible to lay people.
+I'm trained as a chemical engineer, and value that technical background, but have found my calling in copyediting. I am passionate about science, food, local politics, queer and feminist issues, Judaism, speculative fiction, and language. An enthusiastic researcher, I relish the opportunity to dig deep into a new topic and to make complicated technical issues accessible to lay people.
 
-Experienced in Chicago Manual of Style, AP, and MLA. Currently available for copy editing, transcription, and writing (especially in the areas listed above, but able to quickly get up to speed on most technical topics). I would love to help your work become the best possible version of itself!
+Experienced in Chicago Manual of Style, AP, and Canada Press Style. Currently available for copy editing, transcription, sensitivity reading, and writing (especially in the areas listed above, but able to quickly get up to speed on most technical topics). I would love to help your work become the best possible version of itself!
 
 ***
 
@@ -19,11 +19,9 @@ Experienced in Chicago Manual of Style, AP, and MLA. Currently available for cop
 
 *Katherine Gorman, Executive Producer, [Collective Next](https://collectivenext.com/)*
 
-
-
 > Hannah did an incredible job as a copyeditor for Bossgame’s script. He was very quickly able to point out scenes I had been unsure about, and suggest both explanations and solutions. His advice was clear and easy to understand, and he was extremely reliable. With his help, I was able to make the story feel more consistent and cohesive by dropping grammatical mistakes and strange verbiage. Hannah’s work ensured the script was everything I wanted it to be. I’d highly recommend him to anyone who needs copyediting.
 
-*Lily Valeen, Game Designer, creator of [BOSSGAME: The Final Boss Is My Heart](https://apps.apple.com/us/app/bossgame-the-boss-is-my-heart/id1644439303)*
+*Lily Valeen, Game Designer, creator of [BOSSGAME: The Final Boss Is My Heart](https://itsmelilyv.itch.io/bossgame)*
 
 ***
 
@@ -31,7 +29,11 @@ Experienced in Chicago Manual of Style, AP, and MLA. Currently available for cop
 
 ### Copy Editing
 
-A close read of your almost-completed work, focusing on clarity, concision, and correctness. I'll catch typos and inconsistencies, tighten up formatting, and polish your prose (or poetry!). In the initial consult, we'll talk through the level of editing desired, the project timeline, and rates. For longer works, I will generally ask for a few pages from the middle of the work to do a sample edit, which will allow me to give you a more accurate time and budget estimate.
+A close read of your almost-completed work, focusing on clarity, concision, and correctness. I'll catch typos and inconsistencies, tighten up formatting, and polish your prose (or poetry!). In the initial consult, we'll talk through the level of editing desired, the project timeline, and rates. For longer works, I will ask for a few pages from the middle of the work to do a sample edit, which will allow me to give you a more accurate time and budget estimate.
+
+### Sensitivity Reading
+
+A close read of your work (ideally before it's complete!) with an eye to nuanced and respectful depictions of marginalized perspectives. I'm Jewish, queer, and a trans man, and can provide insight into lived experience, help flesh out characterizations, and make tropes feel meaningful and new.
 
 ### Transcription
 

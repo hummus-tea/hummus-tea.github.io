@@ -20,11 +20,11 @@ A selection of the editing and writing projects I've taken on over the years!
 
 ## Writing
 
-["I'm tired of fighting," published in Mamamia](assets\css\docs\I'm a US citizen leaving America after Roe v. Wade.htm)
+["I'm tired of fighting," published in Mamamia](assets\css\docs\mamamia-article.htm)
 
-["'Indecent' tells many stories," published in Washtenaw Jewish News](assets\css\docs\WJN-01-23-web Indecent.pdf)
+["'Indecent' tells many stories," published in Washtenaw Jewish News](assets\css\docs\WJN-01-23-Indecent.pdf)
 
-["Washtenaw County decriminalizes sex work," published in Washtenaw Jewish News](assets\css\docs\WJN-03-21-web decriminalize sex work.pdf)
+["Washtenaw County decriminalizes sex work," published in Washtenaw Jewish News](assets\css\docs\WJN-03-21-decriminalize-sex-work.pdf)
 
 ["Reading and Righting," contributing writer](https://www.amazon.ca/Reading-Righting-Jewish-Writers-Toronto/dp/B0CNNSG6GF)
 

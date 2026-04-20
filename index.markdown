@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "Hannah Davis Edits"
+title: "Davis Evesque Edits"
 ---
 ## About Me
 
@@ -15,13 +15,13 @@ Experienced in Chicago Manual of Style, AP, and Canada Press Style. Currently av
 
 ## Testimonials
 
-> Hannah Davis is a find! Not only is he a careful and thorough editor of our technical mistakes, he brings an eye to the content that he’s working with that always makes it better than it was when we gave it to him. His hard work, attention to detail and truly amazing turn around times make him a vital part of our team. I’d say don’t hire him because I want to keep him all to myself, but everyone needs Hannah!
+> Davis is a find! Not only is he a careful and thorough editor of our technical mistakes, he brings an eye to the content that he’s working with that always makes it better than it was when we gave it to him. His hard work, attention to detail and truly amazing turn around times make him a vital part of our team. I’d say don’t hire him because I want to keep him all to myself, but everyone needs Davis!
 
 *Katherine Gorman, Executive Producer, [Collective Next](https://collectivenext.com/)*
 
-> Hannah did an incredible job as a copyeditor for Bossgame’s script. He was very quickly able to point out scenes I had been unsure about, and suggest both explanations and solutions. His advice was clear and easy to understand, and he was extremely reliable. With his help, I was able to make the story feel more consistent and cohesive by dropping grammatical mistakes and strange verbiage. Hannah’s work ensured the script was everything I wanted it to be. I’d highly recommend him to anyone who needs copyediting.
+> Davis did an incredible job as a copyeditor for Bossgame’s script. He was very quickly able to point out scenes I had been unsure about, and suggest both explanations and solutions. His advice was clear and easy to understand, and he was extremely reliable. With his help, I was able to make the story feel more consistent and cohesive by dropping grammatical mistakes and strange verbiage. Davis’s work ensured the script was everything I wanted it to be. I’d highly recommend him to anyone who needs copyediting.
 
-*Lily Valeen, Game Designer, creator of [BOSSGAME: The Final Boss Is My Heart](https://itsmelilyv.itch.io/bossgame)*
+*Lily Valeen, Game Designer, creator of [BOSSGAME: The Final Boss Is My Heart](http://bossgamegame.com/)*
 
 ***
 
